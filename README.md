@@ -1,25 +1,18 @@
-- 👋 Hi, I’m Fang Ji. 
-- 👀 I’m interested in mathematical modeling and machine learning. 
-- 🌱 Some of my research experiences include:
-  - developing mathematical models to investigate factors that influence insect outbreaks as well as mechanisms that maintain mutualisms.
-  - develping machine learning algorithms to attribute paintings to their respective artists using Convolutional Neural Networks. 
-- 💞️ I'm currently teaching myself SQL, data structures, and algorithms.
-- 📫 You can reach me at faangjii@gmail.com
 
-Background
-I did my undergrad in Forestry, in my junior year, I took a course on forest pest management. From that course I learned that insect outbreaks are a difficult problem in many forests but the professor never explained the ecological mechanisms behind this phenomenon. I was eager to figure out the ecological mechanisms that influence the pattern of insect outbreaks. Motivated by this, I started my PhD study in Dr. Karen Abbott's theoretical ecology lab at Case Western Reserve University. 
+Hello! My name is Fang Ji, a recent PhD graduate from Dr. Karen Abbott's Theoretical Ecology Lab at Case Western Reserve University. Before grad school, I did my undergrad in Forestry. The transition started in my junior year in college when I took a course on forest pest management. From that course I learned that insect outbreaks are extremely problematic in many forests aroung the world, but the underlying mechanisms and potential solutions are often not known. I was eager to figure out how different ecological factors influence the pattern of insect outbreaks, so I joined the Abbott lab to learn how to build mathematical models and analyze dynamical systems. 
 
-PhD Dissertation Research 
-The first project I worked on during my PhD study is using a series of discrete-time models to examine the interaction between insect herbivores and their host plants, and how the interaction affect insect population dynamics. In particular, I focused on the trade-offs between two plant allocation strategies. 
+Under the guidance of my advisor and post-doc labmates, I did two modeling projects investigating insect population dynamics in different ecological systems, you can find them **[here](https://github.com/fang-ji/modeling_projects)**. 
 
-Deep Learning Research
-During my third year in grad school, I was introduced to an interdisciplinary collaboration team by friends in Physics department. 
+Towards the end of my third year in grad school, I was introduced to an interdisciplinary physics / art-history project where machine learning algorithms are used to attribute paintings to their respective artists. That oppotunity really encouraged me to teach myself Machine Learning for image processing, especially Convolutional Neural Networks, and Python. Soon after I joined the collaboration team, I became the lead code developer. You can read more about this project **[here](https://github.com/hincz-lab/machine-learning-for-art-attribution)**.
 
-Contact Me
-LinkedIn
-School Email fxj53@case.edu
-Professional Email faangjii@gmail.com
+Using the skills I gained from the interdisciplinary physics / art-history project, I applied CNNs to link underlying ecological processes to spatial patterns in community ecology, you can find it **[here](https://github.com/fang-ji/CNN_point_pattern)**.
 
+#### Contact Information
+- LinkedIn: [linkedin.com/in/fang-ji](https://linkedin.com/in/fang-ji)
+- School Email: fxj53@case.edu
+- Professional Email: faangjii@gmail.com
+
+Thank you for visiting! 
 
 <!---
 fang-ji/fang-ji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
