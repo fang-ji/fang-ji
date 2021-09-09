@@ -5,8 +5,6 @@ Under the guidance of my advisor and labmates, I completed two modeling projects
 
 Towards the end of my third year in grad school, I was introduced to an interdisciplinary physics / art-history project, where Machine Learning algorithms are used to attribute paintings to their respective artists. That oppotunity really encouraged me to teach myself Machine Learning, especially Convolutional Neural Networks (CNNs), and Python. Soon after I joined the collaboration team, I became the lead code developer. You can read more about this project **[here](https://github.com/hincz-lab/machine-learning-for-art-attribution)**.
 
-Using the skills I gained from the interdisciplinary physics / art-history project, I applied CNNs to link underlying ecological processes to spatial patterns in community ecology, which you can find **[here](https://github.com/fang-ji/CNN_point_pattern)**.
-
 #### Contact Information
 - LinkedIn: [linkedin.com/in/fang-ji](https://linkedin.com/in/fang-ji)
 - School Email: fxj53@case.edu
